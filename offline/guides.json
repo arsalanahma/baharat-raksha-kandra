@@ -1,0 +1,46 @@
+{
+  "version": "2.0.0",
+  "generated": "2026-09-05T00:00:00.000Z",
+  "title": "Raksha Kendra Offline Survival Guides",
+  "guides": [
+    {
+      "id": "guide-water",
+      "title": "Emergency Water Purification Protocols",
+      "steps": [
+        "1. Silt Filtration: Filter flood water through clean folded cotton fabric (saree/dhoti).",
+        "2. Rolling Boil: Boil water vigorously for 3 minutes (5 minutes in mountains).",
+        "3. Chemical Disinfection: Add 2 drops of 5% unscented household bleach or 1 chlorine tablet per 1 liter; let stand 30 minutes.",
+        "4. SODIS: Expose filled clear PET bottles to direct intense sunlight on tin roof for 6 hours."
+      ]
+    },
+    {
+      "id": "guide-firstaid",
+      "title": "Tactical First Aid & Severe Hemorrhage",
+      "steps": [
+        "1. Direct Pressure: Press clean cloth firmly on wound.",
+        "2. Tourniquet: For catastrophic limb bleeding, apply 2-3 inches above wound (not on joint). Note time on patient forehead.",
+        "3. Snakebite: DO NOT cut or suck venom. Immobilize limb at heart level with a splint. Transport immediately to hospital for ASV.",
+        "4. Hands-Only CPR: Push hard and fast at center of chest (100-120 bpm, 2 inches deep)."
+      ]
+    },
+    {
+      "id": "guide-earthquake",
+      "title": "Earthquake Drop, Cover & Hold On",
+      "steps": [
+        "1. DROP onto hands and knees.",
+        "2. COVER head and neck under sturdy desk or table.",
+        "3. HOLD ON until shaking stops.",
+        "4. EVACUATE via stairs after shocks cease. Shut off gas and power mains."
+      ]
+    },
+    {
+      "id": "guide-signals",
+      "title": "Emergency Distress Signaling",
+      "steps": [
+        "1. Rule of Threes: 3 whistle blasts, 3 torch flashes, 3 smoke puffs.",
+        "2. Morse SOS: ... --- ... (3 short, 3 long, 3 short).",
+        "3. Roof Ground Symbols for Aircraft: 'V' = Need Help, 'X' = Medical Urgent, 'II' = Need Food/Water."
+      ]
+    }
+  ]
+}

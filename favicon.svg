@@ -1,0 +1,19 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="brkTricolorFav" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FF9933" />
+      <stop offset="50%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#138808" />
+    </linearGradient>
+    <radialGradient id="brkBeaconFav" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f59e0b" stop-opacity="1" />
+      <stop offset="60%" stop-color="#ef4444" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#dc2626" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <circle cx="60" cy="60" r="56" fill="#0b1329" stroke="url(#brkTricolorFav)" stroke-width="4" />
+  <path d="M60 18 C82 24, 92 30, 92 54 C92 76, 78 92, 60 103 C42 92, 28 76, 28 54 C28 30, 38 24, 60 18 Z" fill="#0f172a" stroke="#d97706" stroke-width="3" stroke-linejoin="round" />
+  <circle cx="60" cy="60" r="20" fill="none" stroke="#38bdf8" stroke-width="2" />
+  <circle cx="60" cy="58" r="8" fill="url(#brkBeaconFav)" />
+  <circle cx="60" cy="58" r="3" fill="#ffffff" />
+</svg>

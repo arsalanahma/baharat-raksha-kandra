@@ -1,0 +1,54 @@
+{
+  "name": "Raksha Kendra",
+  "short_name": "RakshaKendra",
+  "description": "National Civil Defense & Disaster Management Platform — Real-time SOS Response, Shelter Locator, and Offline Evacuation Guides",
+  "start_url": "/",
+  "id": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": ["window-controls-overlay", "standalone", "minimal-ui"],
+  "orientation": "any",
+  "background_color": "#f8fafc",
+  "theme_color": "#0b1329",
+  "lang": "en-IN",
+  "dir": "ltr",
+  "categories": ["government", "utilities", "safety", "medical", "navigation"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "48x48 72x72 96x96 128x128 192x192 256x256 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "SOS Distress Beacon",
+      "short_name": "SOS Beacon",
+      "description": "Trigger immediate emergency audio-visual distress signal",
+      "url": "/?action=sos",
+      "icons": [{ "src": "/favicon.svg", "sizes": "192x192" }]
+    },
+    {
+      "name": "Shelter Locator",
+      "short_name": "Shelters",
+      "description": "Find nearest active cyclone and flood relief shelters",
+      "url": "/?module=shelters",
+      "icons": [{ "src": "/favicon.svg", "sizes": "192x192" }]
+    },
+    {
+      "name": "Emergency Helplines",
+      "short_name": "Helplines",
+      "description": "Direct call National Disaster 1078, 112, NDRF and Ambulance",
+      "url": "/?module=helplines",
+      "icons": [{ "src": "/favicon.svg", "sizes": "192x192" }]
+    },
+    {
+      "name": "Offline Survival Guides",
+      "short_name": "Survival",
+      "description": "Step-by-step water purification, first-aid, CPR and signaling",
+      "url": "/?module=survival",
+      "icons": [{ "src": "/favicon.svg", "sizes": "192x192" }]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "version": "2.0.0",
+  "generated": "2026-09-05T00:00:00.000Z",
+  "title": "Raksha Kendra Offline Disaster & AI Lexicon",
+  "description": "Critical emergency dictionary for weak-connectivity and offline civil defense operations",
+  "terms": [
+    {
+      "term": "Triage (ट्राइएज)",
+      "definition": "Sorting of patients into priority categories (Immediate/Red, Delayed/Yellow, Minimal/Green, Expectant/Black) to maximize survival when medical resources are limited.",
+      "category": "Medical"
+    },
+    {
+      "term": "Anti-Snake Venom (ASV)",
+      "definition": "Polyvalent serum effective against bites of the 'Big Four' venomous Indian snakes: Russell's Viper, Saw-scaled Viper, Spectacled Cobra, and Common Krait.",
+      "category": "Medical"
+    },
+    {
+      "term": "Tourniquet",
+      "definition": "Constricting band applied 2-3 inches above an extremity arterial bleeding wound (never over a joint) to stop life-threatening catastrophic hemorrhage. Mark exact application time on forehead.",
+      "category": "Medical"
+    },
+    {
+      "term": "Storm Surge (तूफानी लहर)",
+      "definition": "Abnormal rise in sea level caused by low atmospheric pressure and cyclonic gale winds pushing seawater inland, threatening low-lying coastal hamlets.",
+      "category": "Disaster"
+    },
+    {
+      "term": "GLOF (Glacial Lake Outburst Flood)",
+      "definition": "Catastrophic release of water from a glacial lake dammed by moraine, generating violent flash floods and boulder torrents in Himalayan river valleys.",
+      "category": "Disaster"
+    },
+    {
+      "term": "NDRF (National Disaster Response Force)",
+      "definition": "India's specialized central paramilitary force dedicated to disaster search, rescue, chemical-biological response, and flood extraction.",
+      "category": "Organizations"
+    },
+    {
+      "term": "ODRAF",
+      "definition": "Odisha Disaster Rapid Action Force — elite state disaster response unit equipped for cyclone and flood extrications.",
+      "category": "Organizations"
+    },
+    {
+      "term": "EOC (Emergency Operations Centre)",
+      "definition": "Command command-and-control facility established at national, state (1070), and district (1077) levels to direct disaster response.",
+      "category": "Command"
+    },
+    {
+      "term": "Ham Radio (Amateur Radio)",
+      "definition": "Radio communications operating on amateur frequencies (e.g. 145.200 MHz FM, 7.080 MHz HF) that function reliably when cellular towers and the internet fail.",
+      "category": "Telecom"
+    },
+    {
+      "term": "Drop, Cover, and Hold On",
+      "definition": "Standard earthquake safety drill: Drop to your hands and knees, cover your head and neck beneath a sturdy desk, and hold on until shaking stops.",
+      "category": "Survival"
+    },
+    {
+      "term": "SODIS (Solar Water Disinfection)",
+      "definition": "Water purification method using direct UV sunlight on clear PET bottles for 6 hours to destroy microbial pathogens.",
+      "category": "Sanitation"
+    },
+    {
+      "term": "Halazone / Chlorine Tablets",
+      "definition": "Water purification chemicals used in disaster zones. 1 tablet per 1 liter of clear water or 2 drops of 5% unscented household bleach, with a 30-minute contact time.",
+      "category": "Sanitation"
+    },
+    {
+      "term": "Rule of Threes (Distress)",
+      "definition": "International emergency distress signal: 3 whistle blasts, 3 torch flashes, 3 smoke puffs, or 3 gunshots indicating an urgent plea for rescue.",
+      "category": "Signaling"
+    },
+    {
+      "term": "Morse SOS (... --- ...)",
+      "definition": "Distress telegraphic code: 3 short pulses, 3 long pulses, 3 short pulses transmitted via flashlight, mirror, sound horn, or radio.",
+      "category": "Signaling"
+    },
+    {
+      "term": "Hypothermia",
+      "definition": "Dangerous drop in core body temperature below 35°C, common in wet flood environments. Treat by removing wet clothing, insulating with foil emergency blanket, and warm fluids.",
+      "category": "Medical"
+    }
+  ]
+}

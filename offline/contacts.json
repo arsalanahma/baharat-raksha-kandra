@@ -1,0 +1,32 @@
+{
+  "version": "2.0.0",
+  "generated": "2026-09-05T00:00:00.000Z",
+  "title": "Raksha Kendra Offline National Emergency Contacts Directory",
+  "helplines": [
+    { "service": "National Disaster Helpline (NDMA)", "number": "1078", "tollFree": true, "coverage": "Pan-India" },
+    { "service": "NDRF 24x7 Operations Command HQ", "number": "011-24363260", "tollFree": false, "coverage": "National" },
+    { "service": "All-in-One Emergency Response", "number": "112", "tollFree": true, "coverage": "Pan-India" },
+    { "service": "Medical Emergency & Ambulance", "number": "108", "tollFree": true, "coverage": "Pan-India" },
+    { "service": "State Disaster Emergency Control Room", "number": "1070", "tollFree": true, "coverage": "All States" },
+    { "service": "District Disaster Control Room", "number": "1077", "tollFree": true, "coverage": "All Districts" },
+    { "service": "Women & Child Helpline", "number": "1091 / 1098", "tollFree": true, "coverage": "Pan-India" },
+    { "service": "Indian Coast Guard Maritime SAR", "number": "1554", "tollFree": true, "coverage": "Coastal Waters" },
+    { "service": "Fire Emergency Response", "number": "101", "tollFree": true, "coverage": "Pan-India" },
+    { "service": "Police Emergency", "number": "100 / 112", "tollFree": true, "coverage": "Pan-India" }
+  ],
+  "stateEOCs": [
+    { "state": "Odisha", "service": "OSDMA Central EOC", "number": "1070 / 0674-2534177" },
+    { "state": "Assam", "service": "ASDMA Flood Control EOC", "number": "1070 / 0361-2237221" },
+    { "state": "Kerala", "service": "KSEOC Landslide Management", "number": "1077 / 0471-2331639" },
+    { "state": "Maharashtra", "service": "MCGM Mumbai Disaster Control", "number": "022-22027990 / 1916" },
+    { "state": "Gujarat", "service": "GSDMA Seismic & Cyclone Desk", "number": "1070 / 079-23259283" },
+    { "state": "Uttarakhand", "service": "SDRF Mountain Rescue EOC", "number": "1070 / 0135-2710334" },
+    { "state": "Delhi NCR", "service": "DDMA Flood Control Room", "number": "1077 / 011-23831077" }
+  ],
+  "hamRadioEmergencyFrequencies": [
+    { "callsign": "VU2ODR", "frequency": "145.200 MHz FM", "coverage": "Odisha Coastal Net" },
+    { "callsign": "VU2ASM", "frequency": "145.450 MHz FM", "coverage": "Assam Brahmaputra Valley Net" },
+    { "callsign": "VU2KER", "frequency": "145.300 MHz FM", "coverage": "Kerala Ghats Emergency Net" },
+    { "callsign": "National HF", "frequency": "7.080 MHz / 7.150 MHz LSB", "coverage": "All-India Inter-State Relay" }
+  ]
+}
